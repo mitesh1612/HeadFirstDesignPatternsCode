@@ -1,0 +1,13 @@
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\bin\Debug\netcoreapp3.1\StarBuzzCoffee.exe
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\bin\Debug\netcoreapp3.1\StarBuzzCoffee.deps.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\bin\Debug\netcoreapp3.1\StarBuzzCoffee.runtimeconfig.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\bin\Debug\netcoreapp3.1\StarBuzzCoffee.runtimeconfig.dev.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\bin\Debug\netcoreapp3.1\StarBuzzCoffee.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\bin\Debug\netcoreapp3.1\StarBuzzCoffee.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\netcoreapp3.1\StarBuzzCoffee.csprojAssemblyReference.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\netcoreapp3.1\StarBuzzCoffee.csproj.CoreCompileInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\netcoreapp3.1\StarBuzzCoffee.AssemblyInfoInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\netcoreapp3.1\StarBuzzCoffee.AssemblyInfo.cs
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\netcoreapp3.1\StarBuzzCoffee.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\netcoreapp3.1\StarBuzzCoffee.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter3\StarBuzzCoffee1\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\netcoreapp3.1\StarBuzzCoffee.genruntimeconfig.cache
