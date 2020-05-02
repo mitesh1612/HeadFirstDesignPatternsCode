@@ -1,0 +1,13 @@
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.exe
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.deps.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.runtimeconfig.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.runtimeconfig.dev.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.csprojAssemblyReference.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.csproj.CoreCompileInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.AssemblyInfoInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.AssemblyInfo.cs
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter2\WeatherStation1\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.genruntimeconfig.cache

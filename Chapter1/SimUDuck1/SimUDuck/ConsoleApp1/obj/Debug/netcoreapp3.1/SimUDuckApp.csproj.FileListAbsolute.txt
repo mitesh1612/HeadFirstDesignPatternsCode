@@ -1,0 +1,13 @@
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\bin\Debug\netcoreapp3.1\SimUDuckApp.exe
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\bin\Debug\netcoreapp3.1\SimUDuckApp.deps.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\bin\Debug\netcoreapp3.1\SimUDuckApp.runtimeconfig.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\bin\Debug\netcoreapp3.1\SimUDuckApp.runtimeconfig.dev.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\bin\Debug\netcoreapp3.1\SimUDuckApp.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\bin\Debug\netcoreapp3.1\SimUDuckApp.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\obj\Debug\netcoreapp3.1\SimUDuckApp.csproj.CoreCompileInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\obj\Debug\netcoreapp3.1\SimUDuckApp.AssemblyInfoInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\obj\Debug\netcoreapp3.1\SimUDuckApp.AssemblyInfo.cs
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\obj\Debug\netcoreapp3.1\SimUDuckApp.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\obj\Debug\netcoreapp3.1\SimUDuckApp.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\obj\Debug\netcoreapp3.1\SimUDuckApp.genruntimeconfig.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter1\SimUDuck1\SimUDuck\ConsoleApp1\obj\Debug\netcoreapp3.1\SimUDuckApp.csprojAssemblyReference.cache
