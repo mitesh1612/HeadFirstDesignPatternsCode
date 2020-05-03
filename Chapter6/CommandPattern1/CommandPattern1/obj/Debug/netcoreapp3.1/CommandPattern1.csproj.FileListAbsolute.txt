@@ -1,0 +1,13 @@
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\obj\Debug\netcoreapp3.1\CommandPattern1.csprojAssemblyReference.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\obj\Debug\netcoreapp3.1\CommandPattern1.AssemblyInfoInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\obj\Debug\netcoreapp3.1\CommandPattern1.AssemblyInfo.cs
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\obj\Debug\netcoreapp3.1\CommandPattern1.csproj.CoreCompileInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\bin\Debug\netcoreapp3.1\CommandPattern1.exe
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\bin\Debug\netcoreapp3.1\CommandPattern1.deps.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\bin\Debug\netcoreapp3.1\CommandPattern1.runtimeconfig.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\bin\Debug\netcoreapp3.1\CommandPattern1.runtimeconfig.dev.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\bin\Debug\netcoreapp3.1\CommandPattern1.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\bin\Debug\netcoreapp3.1\CommandPattern1.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\obj\Debug\netcoreapp3.1\CommandPattern1.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\obj\Debug\netcoreapp3.1\CommandPattern1.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter6\CommandPattern1\CommandPattern1\obj\Debug\netcoreapp3.1\CommandPattern1.genruntimeconfig.cache

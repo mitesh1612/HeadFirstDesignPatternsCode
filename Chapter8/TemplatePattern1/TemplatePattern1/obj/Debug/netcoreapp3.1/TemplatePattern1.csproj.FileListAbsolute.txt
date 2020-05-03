@@ -1,0 +1,13 @@
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\bin\Debug\netcoreapp3.1\TemplatePattern1.exe
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\bin\Debug\netcoreapp3.1\TemplatePattern1.deps.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\bin\Debug\netcoreapp3.1\TemplatePattern1.runtimeconfig.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\bin\Debug\netcoreapp3.1\TemplatePattern1.runtimeconfig.dev.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\bin\Debug\netcoreapp3.1\TemplatePattern1.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\bin\Debug\netcoreapp3.1\TemplatePattern1.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\obj\Debug\netcoreapp3.1\TemplatePattern1.csprojAssemblyReference.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\obj\Debug\netcoreapp3.1\TemplatePattern1.AssemblyInfoInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\obj\Debug\netcoreapp3.1\TemplatePattern1.AssemblyInfo.cs
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\obj\Debug\netcoreapp3.1\TemplatePattern1.csproj.CoreCompileInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\obj\Debug\netcoreapp3.1\TemplatePattern1.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\obj\Debug\netcoreapp3.1\TemplatePattern1.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter8\TemplatePattern1\TemplatePattern1\obj\Debug\netcoreapp3.1\TemplatePattern1.genruntimeconfig.cache
