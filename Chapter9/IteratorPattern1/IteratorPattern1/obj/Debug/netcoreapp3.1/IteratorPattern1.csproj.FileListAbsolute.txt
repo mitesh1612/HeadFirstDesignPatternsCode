@@ -1,0 +1,13 @@
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\bin\Debug\netcoreapp3.1\IteratorPattern1.exe
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\bin\Debug\netcoreapp3.1\IteratorPattern1.deps.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\bin\Debug\netcoreapp3.1\IteratorPattern1.runtimeconfig.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\bin\Debug\netcoreapp3.1\IteratorPattern1.runtimeconfig.dev.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\bin\Debug\netcoreapp3.1\IteratorPattern1.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\bin\Debug\netcoreapp3.1\IteratorPattern1.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\obj\Debug\netcoreapp3.1\IteratorPattern1.csprojAssemblyReference.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\obj\Debug\netcoreapp3.1\IteratorPattern1.AssemblyInfoInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\obj\Debug\netcoreapp3.1\IteratorPattern1.AssemblyInfo.cs
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\obj\Debug\netcoreapp3.1\IteratorPattern1.csproj.CoreCompileInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\obj\Debug\netcoreapp3.1\IteratorPattern1.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\obj\Debug\netcoreapp3.1\IteratorPattern1.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\IteratorPattern1\IteratorPattern1\obj\Debug\netcoreapp3.1\IteratorPattern1.genruntimeconfig.cache

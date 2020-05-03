@@ -1,0 +1,13 @@
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\bin\Debug\netcoreapp3.1\StatePattern1.exe
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\bin\Debug\netcoreapp3.1\StatePattern1.deps.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\bin\Debug\netcoreapp3.1\StatePattern1.runtimeconfig.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\bin\Debug\netcoreapp3.1\StatePattern1.runtimeconfig.dev.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\bin\Debug\netcoreapp3.1\StatePattern1.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\bin\Debug\netcoreapp3.1\StatePattern1.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\obj\Debug\netcoreapp3.1\StatePattern1.csprojAssemblyReference.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\obj\Debug\netcoreapp3.1\StatePattern1.AssemblyInfoInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\obj\Debug\netcoreapp3.1\StatePattern1.AssemblyInfo.cs
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\obj\Debug\netcoreapp3.1\StatePattern1.csproj.CoreCompileInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\obj\Debug\netcoreapp3.1\StatePattern1.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\obj\Debug\netcoreapp3.1\StatePattern1.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter10\StatePattern1\StatePattern1\obj\Debug\netcoreapp3.1\StatePattern1.genruntimeconfig.cache

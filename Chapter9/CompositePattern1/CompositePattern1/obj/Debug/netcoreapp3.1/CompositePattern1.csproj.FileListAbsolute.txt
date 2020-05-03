@@ -1,0 +1,13 @@
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\bin\Debug\netcoreapp3.1\CompositePattern1.exe
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\bin\Debug\netcoreapp3.1\CompositePattern1.deps.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\bin\Debug\netcoreapp3.1\CompositePattern1.runtimeconfig.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\bin\Debug\netcoreapp3.1\CompositePattern1.runtimeconfig.dev.json
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\bin\Debug\netcoreapp3.1\CompositePattern1.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\bin\Debug\netcoreapp3.1\CompositePattern1.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\obj\Debug\netcoreapp3.1\CompositePattern1.csprojAssemblyReference.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\obj\Debug\netcoreapp3.1\CompositePattern1.AssemblyInfoInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\obj\Debug\netcoreapp3.1\CompositePattern1.AssemblyInfo.cs
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\obj\Debug\netcoreapp3.1\CompositePattern1.csproj.CoreCompileInputs.cache
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\obj\Debug\netcoreapp3.1\CompositePattern1.dll
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\obj\Debug\netcoreapp3.1\CompositePattern1.pdb
+C:\Personal Resources\HeadFirstDesignPatternsC#Code\Chapter9\CompositePattern1\CompositePattern1\obj\Debug\netcoreapp3.1\CompositePattern1.genruntimeconfig.cache
